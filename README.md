@@ -17,3 +17,5 @@ Programming Language: C++
 Hardware Platform: Arduino  
 Development Tools: Arduino IDE, Git, GitHub  
 
+corrected
+
